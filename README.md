@@ -63,6 +63,11 @@ kubectl describe pod <pod-name>
 > - Browser output if the service is exposed
 
 
+<img width="1920" height="1080" alt="Screenshot_2025-08-11_13_44_36" src="https://github.com/user-attachments/assets/25cae4bf-a0c9-4c10-8ef6-589e385721fc" />
+
+<img width="1920" height="1080" alt="Screenshot_2025-08-11_13_46_41" src="https://github.com/user-attachments/assets/e93879b1-a06b-4828-b6f8-40ddbbbb32b5" />
+
+
 ## 🎯 Learning Outcome
 By completing this task, I gained hands-on experience with:
 - Creating Kubernetes deployments & services
@@ -73,4 +78,4 @@ By completing this task, I gained hands-on experience with:
 ## 👨‍💻 Author
 **Abhishek Mishra**  
 💼 DevOps Enthusiast | 🚀 Passionate about Automation & Cloud Technologies  
-📧 [Your Email] | 🌐 [LinkedIn/GitHub URL]
+
